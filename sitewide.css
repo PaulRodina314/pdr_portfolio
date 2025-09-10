@@ -34,7 +34,7 @@ a {
     text-decoration: none;
 }
 
-a:visited {
+a:active {
     color: brown;
 }
 
