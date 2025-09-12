@@ -1,0 +1,46 @@
+body {
+    font-family: "Roboto Serif";
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    background-color: #f8f8f8;
+}
+
+.resume-wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 30px;   
+}
+
+h3 {
+    color: #0056b3;
+    border-bottom: 2px solid #0056b3;
+    padding-bottom: 5px;
+    margin-top: 25px;
+}
+
+
+a {
+    color: blue;
+}
+
+a {
+  display: block; 
+  padding-bottom: 10px; 
+}
+
+ a:hover {
+      color:rgb(217, 50, 50);
+ }
+
+hr {
+  height: 3px; 
+  background-color: rgb(15, 151, 15); 
+  border: none; 
+}
+
+a {
+    text-decoration: none;
+}
